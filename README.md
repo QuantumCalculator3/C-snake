@@ -6,4 +6,4 @@ A simple text based snake game written in C. Whenever I learn a language or syst
 ```bash
 gcc -o C-snake C-snake.c
 ```
-Supported Operating Systems: Linux, MacOS
+POSIX only.
